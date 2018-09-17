@@ -1,0 +1,19 @@
+{
+  "name": "new_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginogen/test_server.git"
+  },
+  "author": "gino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginogen/test_server/issues"
+  },
+  "homepage": "https://github.com/ginogen/test_server#readme"
+}
